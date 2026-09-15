@@ -1,0 +1,29 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+
+authors:
+  - Alexander
+
+description: Collection with a custom Ansible module and role for creating text files.
+
+license:
+  - MIT
+
+tags:
+  - ansible
+  - module
+  - role
+  - training
+
+dependencies: {}
+
+repository: https://github.com/Folau1/ansimble_play_6
+documentation: https://github.com/Folau1/ansimble_play_6/blob/main/README.md
+homepage: https://github.com/Folau1/ansimble_play_6
+issues: https://github.com/Folau1/ansimble_play_6/issues
+
+build_ignore:
+  - .git
